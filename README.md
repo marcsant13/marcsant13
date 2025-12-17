@@ -2,7 +2,7 @@
 
 🎯 Desenvolvedor em formação, focado em **Backend Java** e **desenvolvimento de software**  
 📍 Brasil  
-🎓 Estudante de **Engenharia de Software**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
 
